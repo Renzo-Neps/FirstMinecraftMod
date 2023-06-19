@@ -1,5 +1,3 @@
-// This is a test
-
 package net.renzo.firstmod;
 
 import net.fabricmc.api.ModInitializer;
